@@ -1,4 +1,3 @@
-import time
 names = [1,2,3]
 name_array_counter = 0
 
